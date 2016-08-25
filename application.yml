@@ -1,9 +1,1 @@
-defaultNumber: 42
-
----
-spring:
-    profiles: local
-eureka:
-  client:
-    serviceUrl:
-      defaultZone: http://localhost:8761/eureka
+defaultExclamation: As_Usual...
